@@ -3,8 +3,8 @@ package gongmall
 import (
 	"encoding/json"
 
-	"github.com/chenjiacheng/gongmall-sdk-go/request"
-	"github.com/chenjiacheng/gongmall-sdk-go/response"
+	"github.com/smallshow-chen/gongmall-sdk-go/request"
+	"github.com/smallshow-chen/gongmall-sdk-go/response"
 )
 
 type MerchantService service
