@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/chenjiacheng/gongmall-sdk-go/request"
+	"github.com/smallshow-chen/gongmall-sdk-go/request"
 )
 
 const (
