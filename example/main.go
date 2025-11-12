@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/chenjiacheng/gongmall-sdk-go/gongmall"
+	"github.com/smallshow-chen/gongmall-sdk-go/gongmall"
 )
 
 func main() {
