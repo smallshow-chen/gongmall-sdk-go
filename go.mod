@@ -1,3 +1,3 @@
-module github.com/chenjiacheng/gongmall-sdk-go
+module github.com/smallshow-chen/gongmall-sdk-go
 
 go 1.20
